@@ -101,13 +101,13 @@ Alinhar a baseline de uma view com a baseline de outra view.
 
 # Editor
 
-![](editor.png)
+![](https://raw.githubusercontent.com/felipearimateia/keynotes/master/devfestne/editor.png)
 
 ---
 
 # Auto-connect
 
-![fill](auto_connect.png) O editor calcula e define automaticamente as constraints.
+![fill](https://raw.githubusercontent.com/felipearimateia/keynotes/master/devfestne/auto_connect.png) O editor calcula e define automaticamente as constraints.
 
 ![inline 100%](https://cdn-images-1.medium.com/max/800/1*QUY4Z9sGGU75xArVYyXssA.gif)
 
@@ -123,7 +123,7 @@ Alinhar a baseline de uma view com a baseline de outra view.
 
 # Infer Constraints
 
-![fill](inference.png) É similar ao auto-connect, mas o inference calcula e define as contrainst para todas as views e não apenas para o elemento selecionado.
+![fill](https://raw.githubusercontent.com/felipearimateia/keynotes/master/devfestne/inference.png) É similar ao auto-connect, mas o inference calcula e define as contrainst para todas as views e não apenas para o elemento selecionado.
 
 ---
 
@@ -197,11 +197,11 @@ Veja como é fácil adicionar uma view 16:9 ou 4:3, sem precisar criar uma custo
 
 Este recurso exige que uma das dimessões seja **fixed** ou **warp_content** e outra seja **any size**(0dp)
 
-![left 50%](aspect_ratio.png)
+![left 50%](https://raw.githubusercontent.com/felipearimateia/keynotes/master/devfestne/aspect_ratio.png)
 
 ---
 
-# Examples
+# Use Case
 
 ![](https://codelabs.developers.google.com/codelabs/constraint-layout/img/c1b7d39d232703cb.png)
 
