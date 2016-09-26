@@ -10,14 +10,13 @@
 
 Mobile Developer desde de 2010, apaixonado por código e viciado em séries.
 
-![fill](/Users/felipets/Pictures/Twitter-48.png) @twiterdoari
+![fill](https://raw.githubusercontent.com/felipearimateia/keynotes/master/images/Twitter-48.png) @twiterdoari
 
-![fill](/Users/felipets/Pictures/Google Plus-48.png) +FelipeArimateia
+![fill](https://raw.githubusercontent.com/felipearimateia/keynotes/master/images/Google%20Plus-48.png) +FelipeArimateia
 
-![fill](/Users/felipets/Pictures/GitHub-48.png) felipearimateia
+![fill](https://raw.githubusercontent.com/felipearimateia/keynotes/master/images/GitHub-48.png) felipearimateia
 
-![left](/Users/felipets/Pictures/eu_android.jpg)
-
+![left](https://raw.githubusercontent.com/felipearimateia/keynotes/master/images/eu_android.jpg)
 
 ---
 
