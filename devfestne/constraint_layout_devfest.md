@@ -30,13 +30,13 @@ O Android Studio ganhou um editor de layout baseado em constrantis e também foi
 
 ## Setting up
 
-* Baixar o [Android Studio 2.2 RC](http://tools.android.com/download/studio/builds/2-2-rc)
+* Baixar o [Android Studio 2.2](https://developer.android.com/develop/index.html)
 
 * E adicionar a dependência para ConstraintLayout:
 
 
 ```gradle
-	compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
+	compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha8'
 ```
 
 ---
@@ -187,7 +187,7 @@ Ajuda a posicionar uma view no eixo horizontal, ajustando o valor da *bia* em re
 
 Veja como é fácil adicionar uma view 16:9 ou 4:3, sem precisar criar uma custom view.
 
-```xml 
+```xml
  <ImageView
         android:layout_width="0dp"
         android:layout_height="wrap_content"
