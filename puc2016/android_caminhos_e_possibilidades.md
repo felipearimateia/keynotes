@@ -71,13 +71,12 @@ O que você precisa para se tornar um desenvolvedor Android:
 
 O Material Design também estabelece padrões de ícones, cores, animações, tipografia e hierarquias.
 
-<!-- ![left](/Users/felipets/Pictures/google_design.png) -->
-![left autoplay mute](../videos/material_design.mp4)
-
+<!-- ![left autoplay mute](../videos/material_design.mp4) -->
+![left](/Users/felipets/Pictures/google_design.png)
 
 ---
 
-# Dicas - Suporte a multiplas telas
+## Dicas - Suporte a multiplas telas
 
 - Declarar no AndroidManifest os tamanhos de tela que seu aplicativo suporta.
 - Fornecer layouts baseados em resoluções.
@@ -102,7 +101,7 @@ SYNTAX:
 
 ---
 
-# Dicas - Tamanho do APK
+## Dicas - Tamanho do APK
 
 - Utilizar SVG para diminuir a quantidade de imagens e tamanho do APK.
 - Criar APK's para cada resolução de tela.
@@ -127,7 +126,7 @@ android {
 
 ---
 
-# Dicas - lint
+## Dicas - lint
 
 O [lint](https://developer.android.com/studio/write/lint.html?hl=pt-br) é uma ferramenta integrada ao Android Studio para análise de código, podendo detectar problemas de:
 
@@ -140,6 +139,18 @@ O [lint](https://developer.android.com/studio/write/lint.html?hl=pt-br) é uma f
 ---
 
 ![fit](https://raw.githubusercontent.com/felipearimateia/keynotes/master/puc2016/inspect_code.png)
+
+---
+
+## Dicas - Para não ser banido (I)
+
+Caso o seu aplicativo não tenham como função principal realizar ligações utilize a action `ACTION_DIAL`, para redirecionar o usuário para o app de ligação.
+
+---
+
+## Dicas - Para não ser banido (II)
+
+O mesmo vale para o envio de SMS, utilize a action `ACTION_VIEW` combinado com a URI `sms:<phone_number>`, e o usuário sera redirecionado para o app de SMS.
 
 ---
 
@@ -200,6 +211,14 @@ O Google possuiu uma parceiria com a [Udacity](https://www.udacity.com/courses/a
 
 ---
 
+## Google Play for Education
+
+- Uma loja especifica para aplicativos voltados a educação.
+- Os aplicativos são moderados e recomendados por educadores.
+- O Google da todo um suporte para que instituições possam realizar compras de forma diferenciadas.
+
+---
+
 ## **IoT**
 
 - Utilizar sensores como o de temperatura ambiente e mandar um comando para o Ar Condicionado.
@@ -221,8 +240,8 @@ O Google possuiu uma parceiria com a [Udacity](https://www.udacity.com/courses/a
 ## Valide suas ideias
 
 - No primeiro trimestre de 2016, 92% do market share brasileiro de smartphones é Android[^3].
-- Base de usuários maior.
 - Custo inicial para desenvolver no Android é baixo.
+- Base de usuários para teste é maior que em outras plataformas.
 
 [^3]: statista - [Market share operating systems smartphone sales in Brazil from 2013 to 2016](https://www.statista.com/statistics/245189/market-share-of-mobile-operating-systems-for-smartphone-sales-in-brazil/)
 
