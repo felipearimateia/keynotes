@@ -44,11 +44,11 @@ Mobile Developer desde de 2010, apaixonado por código e viciado em séries.
 
 Em outubro de 2008 foi lançado o primeiro aparelho com Android, o HTC Dream.
 
-Hoje o Android possui 12 versões, e a atual é o Nougat 7.0.
+Hoje o Android possui 12 versões, e a atual é o Nougat 7.x.
 
-E está presente em 83% dos smartphones do mundo[^1].
+E está presente em 87% dos smartphones do mundo[^1].
 
-[^1]: IDC - [Smartphone OS Market Share, 2015 Q2](http://www.idc.com/prodserv/smartphone-os-market-share.jsp)
+[^1]: IDC - [Smartphone OS Market Share, 2016 Q3](http://www.idc.com/prodserv/smartphone-os-market-share.jsp)
 
 ---
 
@@ -71,8 +71,9 @@ O que você precisa para se tornar um desenvolvedor Android:
 
 O Material Design também estabelece padrões de ícones, cores, animações, tipografia e hierarquias.
 
-<!-- ![left autoplay mute](../videos/material_design.mp4) -->
-![left](/Users/felipets/Pictures/google_design.png)
+![left autoplay mute](../videos/material_design.mp4)
+
+<!-- ![left](/Users/felipets/Pictures/google_design.png) -->
 
 ---
 
@@ -211,7 +212,7 @@ O Google possuiu uma parceiria com a [Udacity](https://www.udacity.com/courses/a
 
 ---
 
-## Google Play for Education
+## **Google Play for Education**
 
 - Uma loja especifica para aplicativos voltados a educação.
 - Os aplicativos são moderados e recomendados por educadores.
@@ -221,9 +222,8 @@ O Google possuiu uma parceiria com a [Udacity](https://www.udacity.com/courses/a
 
 ## **IoT**
 
-- Utilizar sensores como o de temperatura ambiente e mandar um comando para o Ar Condicionado.
-- Integração com o [Brillo](https://developers.google.com/brillo/) sistema operacional para embarcados baseado no Android.
-- Integração com Smart House.
+- Utilizando os sensores de temperatura do ambiente e infravermelho, você pode enviar comandos para o Ar Condicionado.
+- Com o Android Things você pode utilizar os recursos do SDK e o Android Studio, para criar seu ecosistema de IoT.
 
 ---
 
@@ -237,17 +237,25 @@ O Google possuiu uma parceiria com a [Udacity](https://www.udacity.com/courses/a
 
 ---
 
-## Valide suas ideias
+## **Saúde**
+
+- Aproveite as API's do Andrid Wear, e monitore dados como batimentos cardiacos do usuário.
+- Infrome para ele quantas calorias perdeu no dia.
+- Conecte dispositivos externos para calcular a glicose.
+
+---
+
+## **Valide suas ideias**
 
 - No primeiro trimestre de 2016, 92% do market share brasileiro de smartphones é Android[^3].
 - Custo inicial para desenvolver no Android é baixo.
-- Base de usuários para teste é maior que em outras plataformas.
+- A base de usuários para teste é maior que em outras plataformas.
 
 [^3]: statista - [Market share operating systems smartphone sales in Brazil from 2013 to 2016](https://www.statista.com/statistics/245189/market-share-of-mobile-operating-systems-for-smartphone-sales-in-brazil/)
 
 ---
 
-![](/Users/felipets/Pictures/android_question.jpg)
+![original](http://i-cdn.phonearena.com/images/articles/148664-thumb/android-h1.jpg)
 
 ---
 
