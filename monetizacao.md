@@ -137,7 +137,7 @@ Mobile Developer, apaixonado por código e viciado em séries.
 
 ---
 
-# Páticas Recomendas para a Monetização
+# Práticas Recomendas para a Monetização
 
 ---
 
@@ -153,7 +153,7 @@ Mobile Developer, apaixonado por código e viciado em séries.
 
 ### Faça experimentos de precificação
 
-- Compreenda os padrões de compra do usuário.
+- Use os testes A/B para experimentar diferentes preços.
 
 ### Compreenda os gastos em seus jogos com o recurso Player Analytics. 
 
